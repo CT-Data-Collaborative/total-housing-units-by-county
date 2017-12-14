@@ -17,7 +17,7 @@ source('./scripts/acsHelpers.R')
 options(scipen=999)
 acsdata <- getACSData(
     getCTGeos("town"),
-    yearList = 2010:2015,
+    yearList = 2010:2016,
     table = "B25002"
 )
 
