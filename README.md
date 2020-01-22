@@ -4,6 +4,13 @@ Total Housing Units by County reports the estimated total number of housing unit
 
 Data Source: U.S. Census ACS 5-Year Estimates Table B25002
 
+
+### To update
+
+1. Download B25002 from data.census.gov and put it in `raw/` folder.
+1. Create Id2 column with a 10-digit code (Excel's RIGHT function, or pandas). Make sure first three columns match older files for consistency.
+1. Run the update script in RStudio.
+
 ## License MIT
 
 ## Getting Setup
