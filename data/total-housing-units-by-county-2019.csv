@@ -1,0 +1,901 @@
+"County","FIPS","Year","Occupancy Status","Measure Type","Variable","Value"
+"Connecticut","09","2006-2010","Total","Number","Housing Units",1475657
+"Connecticut","09","2006-2010","Total","Number","Margins of Error",403
+"Connecticut","09","2006-2010","Vacant","Number","Housing Units",116439
+"Connecticut","09","2006-2010","Vacant","Number","Margins of Error",3016
+"Connecticut","09","2006-2010","Vacant","Percent","Housing Units",7.89
+"Connecticut","09","2006-2010","Vacant","Percent","Margins of Error",0.2
+"Connecticut","09","2006-2010","Occupied","Number","Housing Units",1359218
+"Connecticut","09","2006-2010","Occupied","Number","Margins of Error",2943
+"Connecticut","09","2006-2010","Occupied","Percent","Housing Units",92.11
+"Connecticut","09","2006-2010","Occupied","Percent","Margins of Error",0.2
+"Connecticut","09","2007-2011","Total","Number","Housing Units",1482798
+"Connecticut","09","2007-2011","Total","Number","Margins of Error",573
+"Connecticut","09","2007-2011","Vacant","Number","Housing Units",122683
+"Connecticut","09","2007-2011","Vacant","Number","Margins of Error",3191
+"Connecticut","09","2007-2011","Vacant","Percent","Housing Units",8.27
+"Connecticut","09","2007-2011","Vacant","Percent","Margins of Error",0.22
+"Connecticut","09","2007-2011","Occupied","Number","Housing Units",1360115
+"Connecticut","09","2007-2011","Occupied","Number","Margins of Error",3316
+"Connecticut","09","2007-2011","Occupied","Percent","Housing Units",91.73
+"Connecticut","09","2007-2011","Occupied","Percent","Margins of Error",0.23
+"Connecticut","09","2008-2012","Total","Number","Housing Units",1485445
+"Connecticut","09","2008-2012","Total","Number","Margins of Error",560
+"Connecticut","09","2008-2012","Vacant","Number","Housing Units",125261
+"Connecticut","09","2008-2012","Vacant","Number","Margins of Error",3536
+"Connecticut","09","2008-2012","Vacant","Percent","Housing Units",8.43
+"Connecticut","09","2008-2012","Vacant","Percent","Margins of Error",0.24
+"Connecticut","09","2008-2012","Occupied","Number","Housing Units",1360184
+"Connecticut","09","2008-2012","Occupied","Number","Margins of Error",3254
+"Connecticut","09","2008-2012","Occupied","Percent","Housing Units",91.57
+"Connecticut","09","2008-2012","Occupied","Percent","Margins of Error",0.22
+"Connecticut","09","2009-2013","Total","Number","Housing Units",1486995
+"Connecticut","09","2009-2013","Total","Number","Margins of Error",423
+"Connecticut","09","2009-2013","Vacant","Number","Housing Units",131146
+"Connecticut","09","2009-2013","Vacant","Number","Margins of Error",3319
+"Connecticut","09","2009-2013","Vacant","Percent","Housing Units",8.82
+"Connecticut","09","2009-2013","Vacant","Percent","Margins of Error",0.22
+"Connecticut","09","2009-2013","Occupied","Number","Housing Units",1355849
+"Connecticut","09","2009-2013","Occupied","Number","Margins of Error",3506
+"Connecticut","09","2009-2013","Occupied","Percent","Housing Units",91.18
+"Connecticut","09","2009-2013","Occupied","Percent","Margins of Error",0.24
+"Connecticut","09","2010-2014","Total","Number","Housing Units",1490381
+"Connecticut","09","2010-2014","Total","Number","Margins of Error",481
+"Connecticut","09","2010-2014","Vacant","Number","Housing Units",134175
+"Connecticut","09","2010-2014","Vacant","Number","Margins of Error",3234
+"Connecticut","09","2010-2014","Vacant","Percent","Housing Units",9
+"Connecticut","09","2010-2014","Vacant","Percent","Margins of Error",0.22
+"Connecticut","09","2010-2014","Occupied","Number","Housing Units",1356206
+"Connecticut","09","2010-2014","Occupied","Number","Margins of Error",2983
+"Connecticut","09","2010-2014","Occupied","Percent","Housing Units",91
+"Connecticut","09","2010-2014","Occupied","Percent","Margins of Error",0.2
+"Connecticut","09","2011-2015","Total","Number","Housing Units",1491786
+"Connecticut","09","2011-2015","Total","Number","Margins of Error",313
+"Connecticut","09","2011-2015","Vacant","Number","Housing Units",139203
+"Connecticut","09","2011-2015","Vacant","Number","Margins of Error",3558
+"Connecticut","09","2011-2015","Vacant","Percent","Housing Units",9.33
+"Connecticut","09","2011-2015","Vacant","Percent","Margins of Error",0.24
+"Connecticut","09","2011-2015","Occupied","Number","Housing Units",1352583
+"Connecticut","09","2011-2015","Occupied","Number","Margins of Error",3661
+"Connecticut","09","2011-2015","Occupied","Percent","Housing Units",90.67
+"Connecticut","09","2011-2015","Occupied","Percent","Margins of Error",0.25
+"Connecticut","09","2012-2016","Total","Number","Housing Units",1493798
+"Connecticut","09","2012-2016","Total","Number","Margins of Error",324
+"Connecticut","09","2012-2016","Vacant","Number","Housing Units",139085
+"Connecticut","09","2012-2016","Vacant","Number","Margins of Error",3355
+"Connecticut","09","2012-2016","Vacant","Percent","Housing Units",9.31
+"Connecticut","09","2012-2016","Vacant","Percent","Margins of Error",0.22
+"Connecticut","09","2012-2016","Occupied","Number","Housing Units",1354713
+"Connecticut","09","2012-2016","Occupied","Number","Margins of Error",3509
+"Connecticut","09","2012-2016","Occupied","Percent","Housing Units",90.69
+"Connecticut","09","2012-2016","Occupied","Percent","Margins of Error",0.24
+"Connecticut","09","2013-2017","Total","Number","Housing Units",1507711
+"Connecticut","09","2013-2017","Total","Number","Margins of Error",283
+"Connecticut","09","2013-2017","Vacant","Number","Housing Units",145956
+"Connecticut","09","2013-2017","Vacant","Number","Margins of Error",3658
+"Connecticut","09","2013-2017","Vacant","Percent","Housing Units",9.68
+"Connecticut","09","2013-2017","Vacant","Percent","Margins of Error",0.24
+"Connecticut","09","2013-2017","Occupied","Number","Housing Units",1361755
+"Connecticut","09","2013-2017","Occupied","Number","Margins of Error",3669
+"Connecticut","09","2013-2017","Occupied","Percent","Housing Units",90.32
+"Connecticut","09","2013-2017","Occupied","Percent","Margins of Error",0.24
+"Connecticut","09","2014-2018","Total","Number","Housing Units",1512305
+"Connecticut","09","2014-2018","Total","Number","Margins of Error",282
+"Connecticut","09","2014-2018","Vacant","Number","Housing Units",144931
+"Connecticut","09","2014-2018","Vacant","Number","Margins of Error",3678
+"Connecticut","09","2014-2018","Vacant","Percent","Housing Units",9.58
+"Connecticut","09","2014-2018","Vacant","Percent","Margins of Error",0.24
+"Connecticut","09","2014-2018","Occupied","Number","Housing Units",1367374
+"Connecticut","09","2014-2018","Occupied","Number","Margins of Error",3671
+"Connecticut","09","2014-2018","Occupied","Percent","Housing Units",90.42
+"Connecticut","09","2014-2018","Occupied","Percent","Margins of Error",0.24
+"Connecticut","09","2015-2019","Total","Number","Housing Units",1516629
+"Connecticut","09","2015-2019","Total","Number","Margins of Error",293
+"Connecticut","09","2015-2019","Vacant","Number","Housing Units",145883
+"Connecticut","09","2015-2019","Vacant","Number","Margins of Error",3687
+"Connecticut","09","2015-2019","Vacant","Percent","Housing Units",9.62
+"Connecticut","09","2015-2019","Vacant","Percent","Margins of Error",0.24
+"Connecticut","09","2015-2019","Occupied","Number","Housing Units",1370746
+"Connecticut","09","2015-2019","Occupied","Number","Margins of Error",3770
+"Connecticut","09","2015-2019","Occupied","Percent","Housing Units",90.38
+"Connecticut","09","2015-2019","Occupied","Percent","Margins of Error",0.25
+"Fairfield County","09001","2006-2010","Total","Number","Housing Units",358132
+"Fairfield County","09001","2006-2010","Total","Number","Margins of Error",718
+"Fairfield County","09001","2006-2010","Vacant","Number","Housing Units",26350
+"Fairfield County","09001","2006-2010","Vacant","Number","Margins of Error",1306
+"Fairfield County","09001","2006-2010","Vacant","Percent","Housing Units",7.36
+"Fairfield County","09001","2006-2010","Vacant","Percent","Margins of Error",0.36
+"Fairfield County","09001","2006-2010","Occupied","Number","Housing Units",331782
+"Fairfield County","09001","2006-2010","Occupied","Number","Margins of Error",1379
+"Fairfield County","09001","2006-2010","Occupied","Percent","Housing Units",92.64
+"Fairfield County","09001","2006-2010","Occupied","Percent","Margins of Error",0.43
+"Fairfield County","09001","2007-2011","Total","Number","Housing Units",359873
+"Fairfield County","09001","2007-2011","Total","Number","Margins of Error",532
+"Fairfield County","09001","2007-2011","Vacant","Number","Housing Units",27734
+"Fairfield County","09001","2007-2011","Vacant","Number","Margins of Error",1210
+"Fairfield County","09001","2007-2011","Vacant","Percent","Housing Units",7.71
+"Fairfield County","09001","2007-2011","Vacant","Percent","Margins of Error",0.34
+"Fairfield County","09001","2007-2011","Occupied","Number","Housing Units",332139
+"Fairfield County","09001","2007-2011","Occupied","Number","Margins of Error",1391
+"Fairfield County","09001","2007-2011","Occupied","Percent","Housing Units",92.29
+"Fairfield County","09001","2007-2011","Occupied","Percent","Margins of Error",0.41
+"Fairfield County","09001","2008-2012","Total","Number","Housing Units",360692
+"Fairfield County","09001","2008-2012","Total","Number","Margins of Error",518
+"Fairfield County","09001","2008-2012","Vacant","Number","Housing Units",27724
+"Fairfield County","09001","2008-2012","Vacant","Number","Margins of Error",1394
+"Fairfield County","09001","2008-2012","Vacant","Percent","Housing Units",7.69
+"Fairfield County","09001","2008-2012","Vacant","Percent","Margins of Error",0.39
+"Fairfield County","09001","2008-2012","Occupied","Number","Housing Units",332968
+"Fairfield County","09001","2008-2012","Occupied","Number","Margins of Error",1376
+"Fairfield County","09001","2008-2012","Occupied","Percent","Housing Units",92.31
+"Fairfield County","09001","2008-2012","Occupied","Percent","Margins of Error",0.4
+"Fairfield County","09001","2009-2013","Total","Number","Housing Units",361272
+"Fairfield County","09001","2009-2013","Total","Number","Margins of Error",428
+"Fairfield County","09001","2009-2013","Vacant","Number","Housing Units",28617
+"Fairfield County","09001","2009-2013","Vacant","Number","Margins of Error",1285
+"Fairfield County","09001","2009-2013","Vacant","Percent","Housing Units",7.92
+"Fairfield County","09001","2009-2013","Vacant","Percent","Margins of Error",0.36
+"Fairfield County","09001","2009-2013","Occupied","Number","Housing Units",332655
+"Fairfield County","09001","2009-2013","Occupied","Number","Margins of Error",1400
+"Fairfield County","09001","2009-2013","Occupied","Percent","Housing Units",92.08
+"Fairfield County","09001","2009-2013","Occupied","Percent","Margins of Error",0.4
+"Fairfield County","09001","2010-2014","Total","Number","Housing Units",362616
+"Fairfield County","09001","2010-2014","Total","Number","Margins of Error",444
+"Fairfield County","09001","2010-2014","Vacant","Number","Housing Units",29114
+"Fairfield County","09001","2010-2014","Vacant","Number","Margins of Error",1341
+"Fairfield County","09001","2010-2014","Vacant","Percent","Housing Units",8.03
+"Fairfield County","09001","2010-2014","Vacant","Percent","Margins of Error",0.37
+"Fairfield County","09001","2010-2014","Occupied","Number","Housing Units",333502
+"Fairfield County","09001","2010-2014","Occupied","Number","Margins of Error",1392
+"Fairfield County","09001","2010-2014","Occupied","Percent","Housing Units",91.97
+"Fairfield County","09001","2010-2014","Occupied","Percent","Margins of Error",0.4
+"Fairfield County","09001","2011-2015","Total","Number","Housing Units",363556
+"Fairfield County","09001","2011-2015","Total","Number","Margins of Error",398
+"Fairfield County","09001","2011-2015","Vacant","Number","Housing Units",29236
+"Fairfield County","09001","2011-2015","Vacant","Number","Margins of Error",1381
+"Fairfield County","09001","2011-2015","Vacant","Percent","Housing Units",8.04
+"Fairfield County","09001","2011-2015","Vacant","Percent","Margins of Error",0.38
+"Fairfield County","09001","2011-2015","Occupied","Number","Housing Units",334320
+"Fairfield County","09001","2011-2015","Occupied","Number","Margins of Error",1367
+"Fairfield County","09001","2011-2015","Occupied","Percent","Housing Units",91.96
+"Fairfield County","09001","2011-2015","Occupied","Percent","Margins of Error",0.39
+"Fairfield County","09001","2012-2016","Total","Number","Housing Units",364737
+"Fairfield County","09001","2012-2016","Total","Number","Margins of Error",463
+"Fairfield County","09001","2012-2016","Vacant","Number","Housing Units",29528
+"Fairfield County","09001","2012-2016","Vacant","Number","Margins of Error",1358
+"Fairfield County","09001","2012-2016","Vacant","Percent","Housing Units",8.1
+"Fairfield County","09001","2012-2016","Vacant","Percent","Margins of Error",0.37
+"Fairfield County","09001","2012-2016","Occupied","Number","Housing Units",335209
+"Fairfield County","09001","2012-2016","Occupied","Number","Margins of Error",1494
+"Fairfield County","09001","2012-2016","Occupied","Percent","Housing Units",91.9
+"Fairfield County","09001","2012-2016","Occupied","Percent","Margins of Error",0.43
+"Fairfield County","09001","2013-2017","Total","Number","Housing Units",369044
+"Fairfield County","09001","2013-2017","Total","Number","Margins of Error",363
+"Fairfield County","09001","2013-2017","Vacant","Number","Housing Units",31366
+"Fairfield County","09001","2013-2017","Vacant","Number","Margins of Error",1400
+"Fairfield County","09001","2013-2017","Vacant","Percent","Housing Units",8.5
+"Fairfield County","09001","2013-2017","Vacant","Percent","Margins of Error",0.38
+"Fairfield County","09001","2013-2017","Occupied","Number","Housing Units",337678
+"Fairfield County","09001","2013-2017","Occupied","Number","Margins of Error",1419
+"Fairfield County","09001","2013-2017","Occupied","Percent","Housing Units",91.5
+"Fairfield County","09001","2013-2017","Occupied","Percent","Margins of Error",0.39
+"Fairfield County","09001","2014-2018","Total","Number","Housing Units",370999
+"Fairfield County","09001","2014-2018","Total","Number","Margins of Error",387
+"Fairfield County","09001","2014-2018","Vacant","Number","Housing Units",30508
+"Fairfield County","09001","2014-2018","Vacant","Number","Margins of Error",1287
+"Fairfield County","09001","2014-2018","Vacant","Percent","Housing Units",8.22
+"Fairfield County","09001","2014-2018","Vacant","Percent","Margins of Error",0.35
+"Fairfield County","09001","2014-2018","Occupied","Number","Housing Units",340491
+"Fairfield County","09001","2014-2018","Occupied","Number","Margins of Error",1330
+"Fairfield County","09001","2014-2018","Occupied","Percent","Housing Units",91.78
+"Fairfield County","09001","2014-2018","Occupied","Percent","Margins of Error",0.37
+"Fairfield County","09001","2015-2019","Total","Number","Housing Units",372565
+"Fairfield County","09001","2015-2019","Total","Number","Margins of Error",336
+"Fairfield County","09001","2015-2019","Vacant","Number","Housing Units",32376
+"Fairfield County","09001","2015-2019","Vacant","Number","Margins of Error",1540
+"Fairfield County","09001","2015-2019","Vacant","Percent","Housing Units",8.69
+"Fairfield County","09001","2015-2019","Vacant","Percent","Margins of Error",0.41
+"Fairfield County","09001","2015-2019","Occupied","Number","Housing Units",340189
+"Fairfield County","09001","2015-2019","Occupied","Number","Margins of Error",1594
+"Fairfield County","09001","2015-2019","Occupied","Percent","Housing Units",91.31
+"Fairfield County","09001","2015-2019","Occupied","Percent","Margins of Error",0.44
+"Hartford County","09003","2006-2010","Total","Number","Housing Units",371798
+"Hartford County","09003","2006-2010","Total","Number","Margins of Error",680
+"Hartford County","09003","2006-2010","Vacant","Number","Housing Units",24173
+"Hartford County","09003","2006-2010","Vacant","Number","Margins of Error",1250
+"Hartford County","09003","2006-2010","Vacant","Percent","Housing Units",6.5
+"Hartford County","09003","2006-2010","Vacant","Percent","Margins of Error",0.34
+"Hartford County","09003","2006-2010","Occupied","Number","Housing Units",347625
+"Hartford County","09003","2006-2010","Occupied","Number","Margins of Error",1455
+"Hartford County","09003","2006-2010","Occupied","Percent","Housing Units",93.5
+"Hartford County","09003","2006-2010","Occupied","Percent","Margins of Error",0.43
+"Hartford County","09003","2007-2011","Total","Number","Housing Units",373280
+"Hartford County","09003","2007-2011","Total","Number","Margins of Error",570
+"Hartford County","09003","2007-2011","Vacant","Number","Housing Units",24842
+"Hartford County","09003","2007-2011","Vacant","Number","Margins of Error",1233
+"Hartford County","09003","2007-2011","Vacant","Percent","Housing Units",6.66
+"Hartford County","09003","2007-2011","Vacant","Percent","Margins of Error",0.33
+"Hartford County","09003","2007-2011","Occupied","Number","Housing Units",348438
+"Hartford County","09003","2007-2011","Occupied","Number","Margins of Error",1386
+"Hartford County","09003","2007-2011","Occupied","Percent","Housing Units",93.34
+"Hartford County","09003","2007-2011","Occupied","Percent","Margins of Error",0.4
+"Hartford County","09003","2008-2012","Total","Number","Housing Units",373676
+"Hartford County","09003","2008-2012","Total","Number","Margins of Error",559
+"Hartford County","09003","2008-2012","Vacant","Number","Housing Units",24518
+"Hartford County","09003","2008-2012","Vacant","Number","Margins of Error",1125
+"Hartford County","09003","2008-2012","Vacant","Percent","Housing Units",6.56
+"Hartford County","09003","2008-2012","Vacant","Percent","Margins of Error",0.3
+"Hartford County","09003","2008-2012","Occupied","Number","Housing Units",349158
+"Hartford County","09003","2008-2012","Occupied","Number","Margins of Error",1196
+"Hartford County","09003","2008-2012","Occupied","Percent","Housing Units",93.44
+"Hartford County","09003","2008-2012","Occupied","Percent","Margins of Error",0.35
+"Hartford County","09003","2009-2013","Total","Number","Housing Units",373809
+"Hartford County","09003","2009-2013","Total","Number","Margins of Error",454
+"Hartford County","09003","2009-2013","Vacant","Number","Housing Units",25935
+"Hartford County","09003","2009-2013","Vacant","Number","Margins of Error",1285
+"Hartford County","09003","2009-2013","Vacant","Percent","Housing Units",6.94
+"Hartford County","09003","2009-2013","Vacant","Percent","Margins of Error",0.34
+"Hartford County","09003","2009-2013","Occupied","Number","Housing Units",347874
+"Hartford County","09003","2009-2013","Occupied","Number","Margins of Error",1363
+"Hartford County","09003","2009-2013","Occupied","Percent","Housing Units",93.06
+"Hartford County","09003","2009-2013","Occupied","Percent","Margins of Error",0.38
+"Hartford County","09003","2010-2014","Total","Number","Housing Units",374455
+"Hartford County","09003","2010-2014","Total","Number","Margins of Error",552
+"Hartford County","09003","2010-2014","Vacant","Number","Housing Units",26251
+"Hartford County","09003","2010-2014","Vacant","Number","Margins of Error",1268
+"Hartford County","09003","2010-2014","Vacant","Percent","Housing Units",7.01
+"Hartford County","09003","2010-2014","Vacant","Percent","Margins of Error",0.34
+"Hartford County","09003","2010-2014","Occupied","Number","Housing Units",348204
+"Hartford County","09003","2010-2014","Occupied","Number","Margins of Error",1251
+"Hartford County","09003","2010-2014","Occupied","Percent","Housing Units",92.99
+"Hartford County","09003","2010-2014","Occupied","Percent","Margins of Error",0.36
+"Hartford County","09003","2011-2015","Total","Number","Housing Units",374453
+"Hartford County","09003","2011-2015","Total","Number","Margins of Error",462
+"Hartford County","09003","2011-2015","Vacant","Number","Housing Units",28091
+"Hartford County","09003","2011-2015","Vacant","Number","Margins of Error",1226
+"Hartford County","09003","2011-2015","Vacant","Percent","Housing Units",7.5
+"Hartford County","09003","2011-2015","Vacant","Percent","Margins of Error",0.33
+"Hartford County","09003","2011-2015","Occupied","Number","Housing Units",346362
+"Hartford County","09003","2011-2015","Occupied","Number","Margins of Error",1467
+"Hartford County","09003","2011-2015","Occupied","Percent","Housing Units",92.5
+"Hartford County","09003","2011-2015","Occupied","Percent","Margins of Error",0.41
+"Hartford County","09003","2012-2016","Total","Number","Housing Units",374672
+"Hartford County","09003","2012-2016","Total","Number","Margins of Error",515
+"Hartford County","09003","2012-2016","Vacant","Number","Housing Units",27465
+"Hartford County","09003","2012-2016","Vacant","Number","Margins of Error",1286
+"Hartford County","09003","2012-2016","Vacant","Percent","Housing Units",7.33
+"Hartford County","09003","2012-2016","Vacant","Percent","Margins of Error",0.34
+"Hartford County","09003","2012-2016","Occupied","Number","Housing Units",347207
+"Hartford County","09003","2012-2016","Occupied","Number","Margins of Error",1471
+"Hartford County","09003","2012-2016","Occupied","Percent","Housing Units",92.67
+"Hartford County","09003","2012-2016","Occupied","Percent","Margins of Error",0.41
+"Hartford County","09003","2013-2017","Total","Number","Housing Units",377840
+"Hartford County","09003","2013-2017","Total","Number","Margins of Error",365
+"Hartford County","09003","2013-2017","Vacant","Number","Housing Units",28969
+"Hartford County","09003","2013-2017","Vacant","Number","Margins of Error",1405
+"Hartford County","09003","2013-2017","Vacant","Percent","Housing Units",7.67
+"Hartford County","09003","2013-2017","Vacant","Percent","Margins of Error",0.37
+"Hartford County","09003","2013-2017","Occupied","Number","Housing Units",348871
+"Hartford County","09003","2013-2017","Occupied","Number","Margins of Error",1439
+"Hartford County","09003","2013-2017","Occupied","Percent","Housing Units",92.33
+"Hartford County","09003","2013-2017","Occupied","Percent","Margins of Error",0.39
+"Hartford County","09003","2014-2018","Total","Number","Housing Units",378700
+"Hartford County","09003","2014-2018","Total","Number","Margins of Error",422
+"Hartford County","09003","2014-2018","Vacant","Number","Housing Units",29636
+"Hartford County","09003","2014-2018","Vacant","Number","Margins of Error",1427
+"Hartford County","09003","2014-2018","Vacant","Percent","Housing Units",7.83
+"Hartford County","09003","2014-2018","Vacant","Percent","Margins of Error",0.38
+"Hartford County","09003","2014-2018","Occupied","Number","Housing Units",349064
+"Hartford County","09003","2014-2018","Occupied","Number","Margins of Error",1488
+"Hartford County","09003","2014-2018","Occupied","Percent","Housing Units",92.17
+"Hartford County","09003","2014-2018","Occupied","Percent","Margins of Error",0.41
+"Hartford County","09003","2015-2019","Total","Number","Housing Units",379602
+"Hartford County","09003","2015-2019","Total","Number","Margins of Error",382
+"Hartford County","09003","2015-2019","Vacant","Number","Housing Units",29194
+"Hartford County","09003","2015-2019","Vacant","Number","Margins of Error",1491
+"Hartford County","09003","2015-2019","Vacant","Percent","Housing Units",7.69
+"Hartford County","09003","2015-2019","Vacant","Percent","Margins of Error",0.39
+"Hartford County","09003","2015-2019","Occupied","Number","Housing Units",350408
+"Hartford County","09003","2015-2019","Occupied","Number","Margins of Error",1530
+"Hartford County","09003","2015-2019","Occupied","Percent","Housing Units",92.31
+"Hartford County","09003","2015-2019","Occupied","Percent","Margins of Error",0.41
+"Litchfield County","09005","2006-2010","Total","Number","Housing Units",86607
+"Litchfield County","09005","2006-2010","Total","Number","Margins of Error",336
+"Litchfield County","09005","2006-2010","Vacant","Number","Housing Units",9919
+"Litchfield County","09005","2006-2010","Vacant","Number","Margins of Error",651
+"Litchfield County","09005","2006-2010","Vacant","Percent","Housing Units",11.45
+"Litchfield County","09005","2006-2010","Vacant","Percent","Margins of Error",0.75
+"Litchfield County","09005","2006-2010","Occupied","Number","Housing Units",76688
+"Litchfield County","09005","2006-2010","Occupied","Number","Margins of Error",553
+"Litchfield County","09005","2006-2010","Occupied","Percent","Housing Units",88.55
+"Litchfield County","09005","2006-2010","Occupied","Percent","Margins of Error",0.73
+"Litchfield County","09005","2007-2011","Total","Number","Housing Units",87189
+"Litchfield County","09005","2007-2011","Total","Number","Margins of Error",199
+"Litchfield County","09005","2007-2011","Vacant","Number","Housing Units",10712
+"Litchfield County","09005","2007-2011","Vacant","Number","Margins of Error",656
+"Litchfield County","09005","2007-2011","Vacant","Percent","Housing Units",12.29
+"Litchfield County","09005","2007-2011","Vacant","Percent","Margins of Error",0.75
+"Litchfield County","09005","2007-2011","Occupied","Number","Housing Units",76477
+"Litchfield County","09005","2007-2011","Occupied","Number","Margins of Error",667
+"Litchfield County","09005","2007-2011","Occupied","Percent","Housing Units",87.71
+"Litchfield County","09005","2007-2011","Occupied","Percent","Margins of Error",0.79
+"Litchfield County","09005","2008-2012","Total","Number","Housing Units",87302
+"Litchfield County","09005","2008-2012","Total","Number","Margins of Error",169
+"Litchfield County","09005","2008-2012","Vacant","Number","Housing Units",11153
+"Litchfield County","09005","2008-2012","Vacant","Number","Margins of Error",780
+"Litchfield County","09005","2008-2012","Vacant","Percent","Housing Units",12.78
+"Litchfield County","09005","2008-2012","Vacant","Percent","Margins of Error",0.89
+"Litchfield County","09005","2008-2012","Occupied","Number","Housing Units",76149
+"Litchfield County","09005","2008-2012","Occupied","Number","Margins of Error",823
+"Litchfield County","09005","2008-2012","Occupied","Percent","Housing Units",87.22
+"Litchfield County","09005","2008-2012","Occupied","Percent","Margins of Error",0.96
+"Litchfield County","09005","2009-2013","Total","Number","Housing Units",87338
+"Litchfield County","09005","2009-2013","Total","Number","Margins of Error",200
+"Litchfield County","09005","2009-2013","Vacant","Number","Housing Units",11583
+"Litchfield County","09005","2009-2013","Vacant","Number","Margins of Error",704
+"Litchfield County","09005","2009-2013","Vacant","Percent","Housing Units",13.26
+"Litchfield County","09005","2009-2013","Vacant","Percent","Margins of Error",0.81
+"Litchfield County","09005","2009-2013","Occupied","Number","Housing Units",75755
+"Litchfield County","09005","2009-2013","Occupied","Number","Margins of Error",752
+"Litchfield County","09005","2009-2013","Occupied","Percent","Housing Units",86.74
+"Litchfield County","09005","2009-2013","Occupied","Percent","Margins of Error",0.88
+"Litchfield County","09005","2010-2014","Total","Number","Housing Units",87490
+"Litchfield County","09005","2010-2014","Total","Number","Margins of Error",164
+"Litchfield County","09005","2010-2014","Vacant","Number","Housing Units",12261
+"Litchfield County","09005","2010-2014","Vacant","Number","Margins of Error",690
+"Litchfield County","09005","2010-2014","Vacant","Percent","Housing Units",14.01
+"Litchfield County","09005","2010-2014","Vacant","Percent","Margins of Error",0.79
+"Litchfield County","09005","2010-2014","Occupied","Number","Housing Units",75229
+"Litchfield County","09005","2010-2014","Occupied","Number","Margins of Error",695
+"Litchfield County","09005","2010-2014","Occupied","Percent","Housing Units",85.99
+"Litchfield County","09005","2010-2014","Occupied","Percent","Margins of Error",0.81
+"Litchfield County","09005","2011-2015","Total","Number","Housing Units",87447
+"Litchfield County","09005","2011-2015","Total","Number","Margins of Error",228
+"Litchfield County","09005","2011-2015","Vacant","Number","Housing Units",12929
+"Litchfield County","09005","2011-2015","Vacant","Number","Margins of Error",765
+"Litchfield County","09005","2011-2015","Vacant","Percent","Housing Units",14.78
+"Litchfield County","09005","2011-2015","Vacant","Percent","Margins of Error",0.88
+"Litchfield County","09005","2011-2015","Occupied","Number","Housing Units",74518
+"Litchfield County","09005","2011-2015","Occupied","Number","Margins of Error",800
+"Litchfield County","09005","2011-2015","Occupied","Percent","Housing Units",85.22
+"Litchfield County","09005","2011-2015","Occupied","Percent","Margins of Error",0.94
+"Litchfield County","09005","2012-2016","Total","Number","Housing Units",87450
+"Litchfield County","09005","2012-2016","Total","Number","Margins of Error",240
+"Litchfield County","09005","2012-2016","Vacant","Number","Housing Units",13111
+"Litchfield County","09005","2012-2016","Vacant","Number","Margins of Error",830
+"Litchfield County","09005","2012-2016","Vacant","Percent","Housing Units",14.99
+"Litchfield County","09005","2012-2016","Vacant","Percent","Margins of Error",0.95
+"Litchfield County","09005","2012-2016","Occupied","Number","Housing Units",74339
+"Litchfield County","09005","2012-2016","Occupied","Number","Margins of Error",889
+"Litchfield County","09005","2012-2016","Occupied","Percent","Housing Units",85.01
+"Litchfield County","09005","2012-2016","Occupied","Percent","Margins of Error",1.04
+"Litchfield County","09005","2013-2017","Total","Number","Housing Units",88068
+"Litchfield County","09005","2013-2017","Total","Number","Margins of Error",249
+"Litchfield County","09005","2013-2017","Vacant","Number","Housing Units",13463
+"Litchfield County","09005","2013-2017","Vacant","Number","Margins of Error",703
+"Litchfield County","09005","2013-2017","Vacant","Percent","Housing Units",15.29
+"Litchfield County","09005","2013-2017","Vacant","Percent","Margins of Error",0.8
+"Litchfield County","09005","2013-2017","Occupied","Number","Housing Units",74605
+"Litchfield County","09005","2013-2017","Occupied","Number","Margins of Error",786
+"Litchfield County","09005","2013-2017","Occupied","Percent","Housing Units",84.71
+"Litchfield County","09005","2013-2017","Occupied","Percent","Margins of Error",0.92
+"Litchfield County","09005","2014-2018","Total","Number","Housing Units",88153
+"Litchfield County","09005","2014-2018","Total","Number","Margins of Error",268
+"Litchfield County","09005","2014-2018","Vacant","Number","Housing Units",14166
+"Litchfield County","09005","2014-2018","Vacant","Number","Margins of Error",723
+"Litchfield County","09005","2014-2018","Vacant","Percent","Housing Units",16.07
+"Litchfield County","09005","2014-2018","Vacant","Percent","Margins of Error",0.82
+"Litchfield County","09005","2014-2018","Occupied","Number","Housing Units",73987
+"Litchfield County","09005","2014-2018","Occupied","Number","Margins of Error",840
+"Litchfield County","09005","2014-2018","Occupied","Percent","Housing Units",83.93
+"Litchfield County","09005","2014-2018","Occupied","Percent","Margins of Error",0.99
+"Litchfield County","09005","2015-2019","Total","Number","Housing Units",88252
+"Litchfield County","09005","2015-2019","Total","Number","Margins of Error",242
+"Litchfield County","09005","2015-2019","Vacant","Number","Housing Units",14109
+"Litchfield County","09005","2015-2019","Vacant","Number","Margins of Error",741
+"Litchfield County","09005","2015-2019","Vacant","Percent","Housing Units",15.99
+"Litchfield County","09005","2015-2019","Vacant","Percent","Margins of Error",0.84
+"Litchfield County","09005","2015-2019","Occupied","Number","Housing Units",74143
+"Litchfield County","09005","2015-2019","Occupied","Number","Margins of Error",772
+"Litchfield County","09005","2015-2019","Occupied","Percent","Housing Units",84.01
+"Litchfield County","09005","2015-2019","Occupied","Percent","Margins of Error",0.9
+"Middlesex County","09007","2006-2010","Total","Number","Housing Units",74021
+"Middlesex County","09007","2006-2010","Total","Number","Margins of Error",396
+"Middlesex County","09007","2006-2010","Vacant","Number","Housing Units",7046
+"Middlesex County","09007","2006-2010","Vacant","Number","Margins of Error",587
+"Middlesex County","09007","2006-2010","Vacant","Percent","Housing Units",9.52
+"Middlesex County","09007","2006-2010","Vacant","Percent","Margins of Error",0.79
+"Middlesex County","09007","2006-2010","Occupied","Number","Housing Units",66975
+"Middlesex County","09007","2006-2010","Occupied","Number","Margins of Error",762
+"Middlesex County","09007","2006-2010","Occupied","Percent","Housing Units",90.48
+"Middlesex County","09007","2006-2010","Occupied","Percent","Margins of Error",1.14
+"Middlesex County","09007","2007-2011","Total","Number","Housing Units",74480
+"Middlesex County","09007","2007-2011","Total","Number","Margins of Error",258
+"Middlesex County","09007","2007-2011","Vacant","Number","Housing Units",7682
+"Middlesex County","09007","2007-2011","Vacant","Number","Margins of Error",687
+"Middlesex County","09007","2007-2011","Vacant","Percent","Housing Units",10.31
+"Middlesex County","09007","2007-2011","Vacant","Percent","Margins of Error",0.92
+"Middlesex County","09007","2007-2011","Occupied","Number","Housing Units",66798
+"Middlesex County","09007","2007-2011","Occupied","Number","Margins of Error",735
+"Middlesex County","09007","2007-2011","Occupied","Percent","Housing Units",89.69
+"Middlesex County","09007","2007-2011","Occupied","Percent","Margins of Error",1.03
+"Middlesex County","09007","2008-2012","Total","Number","Housing Units",74722
+"Middlesex County","09007","2008-2012","Total","Number","Margins of Error",255
+"Middlesex County","09007","2008-2012","Vacant","Number","Housing Units",7994
+"Middlesex County","09007","2008-2012","Vacant","Number","Margins of Error",720
+"Middlesex County","09007","2008-2012","Vacant","Percent","Housing Units",10.7
+"Middlesex County","09007","2008-2012","Vacant","Percent","Margins of Error",0.96
+"Middlesex County","09007","2008-2012","Occupied","Number","Housing Units",66728
+"Middlesex County","09007","2008-2012","Occupied","Number","Margins of Error",766
+"Middlesex County","09007","2008-2012","Occupied","Percent","Housing Units",89.3
+"Middlesex County","09007","2008-2012","Occupied","Percent","Margins of Error",1.07
+"Middlesex County","09007","2009-2013","Total","Number","Housing Units",74832
+"Middlesex County","09007","2009-2013","Total","Number","Margins of Error",284
+"Middlesex County","09007","2009-2013","Vacant","Number","Housing Units",8691
+"Middlesex County","09007","2009-2013","Vacant","Number","Margins of Error",689
+"Middlesex County","09007","2009-2013","Vacant","Percent","Housing Units",11.61
+"Middlesex County","09007","2009-2013","Vacant","Percent","Margins of Error",0.92
+"Middlesex County","09007","2009-2013","Occupied","Number","Housing Units",66141
+"Middlesex County","09007","2009-2013","Occupied","Number","Margins of Error",768
+"Middlesex County","09007","2009-2013","Occupied","Percent","Housing Units",88.39
+"Middlesex County","09007","2009-2013","Occupied","Percent","Margins of Error",1.08
+"Middlesex County","09007","2010-2014","Total","Number","Housing Units",75081
+"Middlesex County","09007","2010-2014","Total","Number","Margins of Error",292
+"Middlesex County","09007","2010-2014","Vacant","Number","Housing Units",8709
+"Middlesex County","09007","2010-2014","Vacant","Number","Margins of Error",719
+"Middlesex County","09007","2010-2014","Vacant","Percent","Housing Units",11.6
+"Middlesex County","09007","2010-2014","Vacant","Percent","Margins of Error",0.96
+"Middlesex County","09007","2010-2014","Occupied","Number","Housing Units",66372
+"Middlesex County","09007","2010-2014","Occupied","Number","Margins of Error",735
+"Middlesex County","09007","2010-2014","Occupied","Percent","Housing Units",88.4
+"Middlesex County","09007","2010-2014","Occupied","Percent","Margins of Error",1.04
+"Middlesex County","09007","2011-2015","Total","Number","Housing Units",75162
+"Middlesex County","09007","2011-2015","Total","Number","Margins of Error",234
+"Middlesex County","09007","2011-2015","Vacant","Number","Housing Units",9045
+"Middlesex County","09007","2011-2015","Vacant","Number","Margins of Error",748
+"Middlesex County","09007","2011-2015","Vacant","Percent","Housing Units",12.03
+"Middlesex County","09007","2011-2015","Vacant","Percent","Margins of Error",1
+"Middlesex County","09007","2011-2015","Occupied","Number","Housing Units",66117
+"Middlesex County","09007","2011-2015","Occupied","Number","Margins of Error",804
+"Middlesex County","09007","2011-2015","Occupied","Percent","Housing Units",87.97
+"Middlesex County","09007","2011-2015","Occupied","Percent","Margins of Error",1.1
+"Middlesex County","09007","2012-2016","Total","Number","Housing Units",75277
+"Middlesex County","09007","2012-2016","Total","Number","Margins of Error",201
+"Middlesex County","09007","2012-2016","Vacant","Number","Housing Units",8810
+"Middlesex County","09007","2012-2016","Vacant","Number","Margins of Error",660
+"Middlesex County","09007","2012-2016","Vacant","Percent","Housing Units",11.7
+"Middlesex County","09007","2012-2016","Vacant","Percent","Margins of Error",0.88
+"Middlesex County","09007","2012-2016","Occupied","Number","Housing Units",66467
+"Middlesex County","09007","2012-2016","Occupied","Number","Margins of Error",703
+"Middlesex County","09007","2012-2016","Occupied","Percent","Housing Units",88.3
+"Middlesex County","09007","2012-2016","Occupied","Percent","Margins of Error",0.96
+"Middlesex County","09007","2013-2017","Total","Number","Housing Units",75938
+"Middlesex County","09007","2013-2017","Total","Number","Margins of Error",217
+"Middlesex County","09007","2013-2017","Vacant","Number","Housing Units",9339
+"Middlesex County","09007","2013-2017","Vacant","Number","Margins of Error",702
+"Middlesex County","09007","2013-2017","Vacant","Percent","Housing Units",12.3
+"Middlesex County","09007","2013-2017","Vacant","Percent","Margins of Error",0.93
+"Middlesex County","09007","2013-2017","Occupied","Number","Housing Units",66599
+"Middlesex County","09007","2013-2017","Occupied","Number","Margins of Error",728
+"Middlesex County","09007","2013-2017","Occupied","Percent","Housing Units",87.7
+"Middlesex County","09007","2013-2017","Occupied","Percent","Margins of Error",0.99
+"Middlesex County","09007","2014-2018","Total","Number","Housing Units",76124
+"Middlesex County","09007","2014-2018","Total","Number","Margins of Error",228
+"Middlesex County","09007","2014-2018","Vacant","Number","Housing Units",9232
+"Middlesex County","09007","2014-2018","Vacant","Number","Margins of Error",688
+"Middlesex County","09007","2014-2018","Vacant","Percent","Housing Units",12.13
+"Middlesex County","09007","2014-2018","Vacant","Percent","Margins of Error",0.9
+"Middlesex County","09007","2014-2018","Occupied","Number","Housing Units",66892
+"Middlesex County","09007","2014-2018","Occupied","Number","Margins of Error",735
+"Middlesex County","09007","2014-2018","Occupied","Percent","Housing Units",87.87
+"Middlesex County","09007","2014-2018","Occupied","Percent","Margins of Error",1
+"Middlesex County","09007","2015-2019","Total","Number","Housing Units",76327
+"Middlesex County","09007","2015-2019","Total","Number","Margins of Error",251
+"Middlesex County","09007","2015-2019","Vacant","Number","Housing Units",9356
+"Middlesex County","09007","2015-2019","Vacant","Number","Margins of Error",709
+"Middlesex County","09007","2015-2019","Vacant","Percent","Housing Units",12.26
+"Middlesex County","09007","2015-2019","Vacant","Percent","Margins of Error",0.93
+"Middlesex County","09007","2015-2019","Occupied","Number","Housing Units",66971
+"Middlesex County","09007","2015-2019","Occupied","Number","Margins of Error",714
+"Middlesex County","09007","2015-2019","Occupied","Percent","Housing Units",87.74
+"Middlesex County","09007","2015-2019","Occupied","Percent","Margins of Error",0.98
+"New Haven County","09009","2006-2010","Total","Number","Housing Units",359509
+"New Haven County","09009","2006-2010","Total","Number","Margins of Error",767
+"New Haven County","09009","2006-2010","Vacant","Number","Housing Units",28724
+"New Haven County","09009","2006-2010","Vacant","Number","Margins of Error",1209
+"New Haven County","09009","2006-2010","Vacant","Percent","Housing Units",7.99
+"New Haven County","09009","2006-2010","Vacant","Percent","Margins of Error",0.34
+"New Haven County","09009","2006-2010","Occupied","Number","Housing Units",330785
+"New Haven County","09009","2006-2010","Occupied","Number","Margins of Error",1492
+"New Haven County","09009","2006-2010","Occupied","Percent","Housing Units",92.01
+"New Haven County","09009","2006-2010","Occupied","Percent","Margins of Error",0.46
+"New Haven County","09009","2007-2011","Total","Number","Housing Units",360895
+"New Haven County","09009","2007-2011","Total","Number","Margins of Error",802
+"New Haven County","09009","2007-2011","Vacant","Number","Housing Units",30499
+"New Haven County","09009","2007-2011","Vacant","Number","Margins of Error",1355
+"New Haven County","09009","2007-2011","Vacant","Percent","Housing Units",8.45
+"New Haven County","09009","2007-2011","Vacant","Percent","Margins of Error",0.38
+"New Haven County","09009","2007-2011","Occupied","Number","Housing Units",330396
+"New Haven County","09009","2007-2011","Occupied","Number","Margins of Error",1539
+"New Haven County","09009","2007-2011","Occupied","Percent","Housing Units",91.55
+"New Haven County","09009","2007-2011","Occupied","Percent","Margins of Error",0.47
+"New Haven County","09009","2008-2012","Total","Number","Housing Units",361393
+"New Haven County","09009","2008-2012","Total","Number","Margins of Error",714
+"New Haven County","09009","2008-2012","Vacant","Number","Housing Units",31437
+"New Haven County","09009","2008-2012","Vacant","Number","Margins of Error",1349
+"New Haven County","09009","2008-2012","Vacant","Percent","Housing Units",8.7
+"New Haven County","09009","2008-2012","Vacant","Percent","Margins of Error",0.37
+"New Haven County","09009","2008-2012","Occupied","Number","Housing Units",329956
+"New Haven County","09009","2008-2012","Occupied","Number","Margins of Error",1462
+"New Haven County","09009","2008-2012","Occupied","Percent","Housing Units",91.3
+"New Haven County","09009","2008-2012","Occupied","Percent","Margins of Error",0.44
+"New Haven County","09009","2009-2013","Total","Number","Housing Units",361726
+"New Haven County","09009","2009-2013","Total","Number","Margins of Error",549
+"New Haven County","09009","2009-2013","Vacant","Number","Housing Units",33713
+"New Haven County","09009","2009-2013","Vacant","Number","Margins of Error",1499
+"New Haven County","09009","2009-2013","Vacant","Percent","Housing Units",9.32
+"New Haven County","09009","2009-2013","Vacant","Percent","Margins of Error",0.41
+"New Haven County","09009","2009-2013","Occupied","Number","Housing Units",328013
+"New Haven County","09009","2009-2013","Occupied","Number","Margins of Error",1532
+"New Haven County","09009","2009-2013","Occupied","Percent","Housing Units",90.68
+"New Haven County","09009","2009-2013","Occupied","Percent","Margins of Error",0.45
+"New Haven County","09009","2010-2014","Total","Number","Housing Units",362202
+"New Haven County","09009","2010-2014","Total","Number","Margins of Error",600
+"New Haven County","09009","2010-2014","Vacant","Number","Housing Units",35116
+"New Haven County","09009","2010-2014","Vacant","Number","Margins of Error",1391
+"New Haven County","09009","2010-2014","Vacant","Percent","Housing Units",9.7
+"New Haven County","09009","2010-2014","Vacant","Percent","Margins of Error",0.38
+"New Haven County","09009","2010-2014","Occupied","Number","Housing Units",327086
+"New Haven County","09009","2010-2014","Occupied","Number","Margins of Error",1471
+"New Haven County","09009","2010-2014","Occupied","Percent","Housing Units",90.3
+"New Haven County","09009","2010-2014","Occupied","Percent","Margins of Error",0.43
+"New Haven County","09009","2011-2015","Total","Number","Housing Units",362351
+"New Haven County","09009","2011-2015","Total","Number","Margins of Error",374
+"New Haven County","09009","2011-2015","Vacant","Number","Housing Units",36323
+"New Haven County","09009","2011-2015","Vacant","Number","Margins of Error",1617
+"New Haven County","09009","2011-2015","Vacant","Percent","Housing Units",10.02
+"New Haven County","09009","2011-2015","Vacant","Percent","Margins of Error",0.45
+"New Haven County","09009","2011-2015","Occupied","Number","Housing Units",326028
+"New Haven County","09009","2011-2015","Occupied","Number","Margins of Error",1625
+"New Haven County","09009","2011-2015","Occupied","Percent","Housing Units",89.98
+"New Haven County","09009","2011-2015","Occupied","Percent","Margins of Error",0.46
+"New Haven County","09009","2012-2016","Total","Number","Housing Units",362497
+"New Haven County","09009","2012-2016","Total","Number","Margins of Error",346
+"New Haven County","09009","2012-2016","Vacant","Number","Housing Units",36010
+"New Haven County","09009","2012-2016","Vacant","Number","Margins of Error",1504
+"New Haven County","09009","2012-2016","Vacant","Percent","Housing Units",9.93
+"New Haven County","09009","2012-2016","Vacant","Percent","Margins of Error",0.42
+"New Haven County","09009","2012-2016","Occupied","Number","Housing Units",326487
+"New Haven County","09009","2012-2016","Occupied","Number","Margins of Error",1531
+"New Haven County","09009","2012-2016","Occupied","Percent","Housing Units",90.07
+"New Haven County","09009","2012-2016","Occupied","Percent","Margins of Error",0.43
+"New Haven County","09009","2013-2017","Total","Number","Housing Units",365546
+"New Haven County","09009","2013-2017","Total","Number","Margins of Error",356
+"New Haven County","09009","2013-2017","Vacant","Number","Housing Units",38144
+"New Haven County","09009","2013-2017","Vacant","Number","Margins of Error",1510
+"New Haven County","09009","2013-2017","Vacant","Percent","Housing Units",10.43
+"New Haven County","09009","2013-2017","Vacant","Percent","Margins of Error",0.41
+"New Haven County","09009","2013-2017","Occupied","Number","Housing Units",327402
+"New Haven County","09009","2013-2017","Occupied","Number","Margins of Error",1520
+"New Haven County","09009","2013-2017","Occupied","Percent","Housing Units",89.57
+"New Haven County","09009","2013-2017","Occupied","Percent","Margins of Error",0.42
+"New Haven County","09009","2014-2018","Total","Number","Housing Units",366266
+"New Haven County","09009","2014-2018","Total","Number","Margins of Error",404
+"New Haven County","09009","2014-2018","Vacant","Number","Housing Units",36409
+"New Haven County","09009","2014-2018","Vacant","Number","Margins of Error",1652
+"New Haven County","09009","2014-2018","Vacant","Percent","Housing Units",9.94
+"New Haven County","09009","2014-2018","Vacant","Percent","Margins of Error",0.45
+"New Haven County","09009","2014-2018","Occupied","Number","Housing Units",329857
+"New Haven County","09009","2014-2018","Occupied","Number","Margins of Error",1775
+"New Haven County","09009","2014-2018","Occupied","Percent","Housing Units",90.06
+"New Haven County","09009","2014-2018","Occupied","Percent","Margins of Error",0.49
+"New Haven County","09009","2015-2019","Total","Number","Housing Units",367053
+"New Haven County","09009","2015-2019","Total","Number","Margins of Error",396
+"New Haven County","09009","2015-2019","Vacant","Number","Housing Units",36481
+"New Haven County","09009","2015-2019","Vacant","Number","Margins of Error",1571
+"New Haven County","09009","2015-2019","Vacant","Percent","Housing Units",9.94
+"New Haven County","09009","2015-2019","Vacant","Percent","Margins of Error",0.43
+"New Haven County","09009","2015-2019","Occupied","Number","Housing Units",330572
+"New Haven County","09009","2015-2019","Occupied","Number","Margins of Error",1635
+"New Haven County","09009","2015-2019","Occupied","Percent","Housing Units",90.06
+"New Haven County","09009","2015-2019","Occupied","Percent","Margins of Error",0.46
+"New London County","09011","2006-2010","Total","Number","Housing Units",119778
+"New London County","09011","2006-2010","Total","Number","Margins of Error",427
+"New London County","09011","2006-2010","Vacant","Number","Housing Units",13188
+"New London County","09011","2006-2010","Vacant","Number","Margins of Error",851
+"New London County","09011","2006-2010","Vacant","Percent","Housing Units",11.01
+"New London County","09011","2006-2010","Vacant","Percent","Margins of Error",0.71
+"New London County","09011","2006-2010","Occupied","Number","Housing Units",106590
+"New London County","09011","2006-2010","Occupied","Number","Margins of Error",1068
+"New London County","09011","2006-2010","Occupied","Percent","Housing Units",88.99
+"New London County","09011","2006-2010","Occupied","Percent","Margins of Error",0.95
+"New London County","09011","2007-2011","Total","Number","Housing Units",120566
+"New London County","09011","2007-2011","Total","Number","Margins of Error",584
+"New London County","09011","2007-2011","Vacant","Number","Housing Units",13451
+"New London County","09011","2007-2011","Vacant","Number","Margins of Error",878
+"New London County","09011","2007-2011","Vacant","Percent","Housing Units",11.16
+"New London County","09011","2007-2011","Vacant","Percent","Margins of Error",0.73
+"New London County","09011","2007-2011","Occupied","Number","Housing Units",107115
+"New London County","09011","2007-2011","Occupied","Number","Margins of Error",746
+"New London County","09011","2007-2011","Occupied","Percent","Housing Units",88.84
+"New London County","09011","2007-2011","Occupied","Percent","Margins of Error",0.75
+"New London County","09011","2008-2012","Total","Number","Housing Units",120752
+"New London County","09011","2008-2012","Total","Number","Margins of Error",276
+"New London County","09011","2008-2012","Vacant","Number","Housing Units",13935
+"New London County","09011","2008-2012","Vacant","Number","Margins of Error",720
+"New London County","09011","2008-2012","Vacant","Percent","Housing Units",11.54
+"New London County","09011","2008-2012","Vacant","Percent","Margins of Error",0.6
+"New London County","09011","2008-2012","Occupied","Number","Housing Units",106817
+"New London County","09011","2008-2012","Occupied","Number","Margins of Error",791
+"New London County","09011","2008-2012","Occupied","Percent","Housing Units",88.46
+"New London County","09011","2008-2012","Occupied","Percent","Margins of Error",0.69
+"New London County","09011","2009-2013","Total","Number","Housing Units",120900
+"New London County","09011","2009-2013","Total","Number","Margins of Error",262
+"New London County","09011","2009-2013","Vacant","Number","Housing Units",13834
+"New London County","09011","2009-2013","Vacant","Number","Margins of Error",832
+"New London County","09011","2009-2013","Vacant","Percent","Housing Units",11.44
+"New London County","09011","2009-2013","Vacant","Percent","Margins of Error",0.69
+"New London County","09011","2009-2013","Occupied","Number","Housing Units",107066
+"New London County","09011","2009-2013","Occupied","Number","Margins of Error",834
+"New London County","09011","2009-2013","Occupied","Percent","Housing Units",88.56
+"New London County","09011","2009-2013","Occupied","Percent","Margins of Error",0.72
+"New London County","09011","2010-2014","Total","Number","Housing Units",121096
+"New London County","09011","2010-2014","Total","Number","Margins of Error",311
+"New London County","09011","2010-2014","Vacant","Number","Housing Units",14214
+"New London County","09011","2010-2014","Vacant","Number","Margins of Error",959
+"New London County","09011","2010-2014","Vacant","Percent","Housing Units",11.74
+"New London County","09011","2010-2014","Vacant","Percent","Margins of Error",0.79
+"New London County","09011","2010-2014","Occupied","Number","Housing Units",106882
+"New London County","09011","2010-2014","Occupied","Number","Margins of Error",1020
+"New London County","09011","2010-2014","Occupied","Percent","Housing Units",88.26
+"New London County","09011","2010-2014","Occupied","Percent","Margins of Error",0.87
+"New London County","09011","2011-2015","Total","Number","Housing Units",121258
+"New London County","09011","2011-2015","Total","Number","Margins of Error",269
+"New London County","09011","2011-2015","Vacant","Number","Housing Units",14763
+"New London County","09011","2011-2015","Vacant","Number","Margins of Error",956
+"New London County","09011","2011-2015","Vacant","Percent","Housing Units",12.17
+"New London County","09011","2011-2015","Vacant","Percent","Margins of Error",0.79
+"New London County","09011","2011-2015","Occupied","Number","Housing Units",106495
+"New London County","09011","2011-2015","Occupied","Number","Margins of Error",960
+"New London County","09011","2011-2015","Occupied","Percent","Housing Units",87.83
+"New London County","09011","2011-2015","Occupied","Percent","Margins of Error",0.82
+"New London County","09011","2012-2016","Total","Number","Housing Units",121426
+"New London County","09011","2012-2016","Total","Number","Margins of Error",296
+"New London County","09011","2012-2016","Vacant","Number","Housing Units",15256
+"New London County","09011","2012-2016","Vacant","Number","Margins of Error",839
+"New London County","09011","2012-2016","Vacant","Percent","Housing Units",12.56
+"New London County","09011","2012-2016","Vacant","Percent","Margins of Error",0.69
+"New London County","09011","2012-2016","Occupied","Number","Housing Units",106170
+"New London County","09011","2012-2016","Occupied","Number","Margins of Error",834
+"New London County","09011","2012-2016","Occupied","Percent","Housing Units",87.44
+"New London County","09011","2012-2016","Occupied","Percent","Margins of Error",0.72
+"New London County","09011","2013-2017","Total","Number","Housing Units",122599
+"New London County","09011","2013-2017","Total","Number","Margins of Error",235
+"New London County","09011","2013-2017","Vacant","Number","Housing Units",15406
+"New London County","09011","2013-2017","Vacant","Number","Margins of Error",863
+"New London County","09011","2013-2017","Vacant","Percent","Housing Units",12.57
+"New London County","09011","2013-2017","Vacant","Percent","Margins of Error",0.7
+"New London County","09011","2013-2017","Occupied","Number","Housing Units",107193
+"New London County","09011","2013-2017","Occupied","Number","Margins of Error",872
+"New London County","09011","2013-2017","Occupied","Percent","Housing Units",87.43
+"New London County","09011","2013-2017","Occupied","Percent","Margins of Error",0.73
+"New London County","09011","2014-2018","Total","Number","Housing Units",123001
+"New London County","09011","2014-2018","Total","Number","Margins of Error",242
+"New London County","09011","2014-2018","Vacant","Number","Housing Units",15599
+"New London County","09011","2014-2018","Vacant","Number","Margins of Error",969
+"New London County","09011","2014-2018","Vacant","Percent","Housing Units",12.68
+"New London County","09011","2014-2018","Vacant","Percent","Margins of Error",0.79
+"New London County","09011","2014-2018","Occupied","Number","Housing Units",107402
+"New London County","09011","2014-2018","Occupied","Number","Margins of Error",932
+"New London County","09011","2014-2018","Occupied","Percent","Housing Units",87.32
+"New London County","09011","2014-2018","Occupied","Percent","Margins of Error",0.78
+"New London County","09011","2015-2019","Total","Number","Housing Units",123426
+"New London County","09011","2015-2019","Total","Number","Margins of Error",282
+"New London County","09011","2015-2019","Vacant","Number","Housing Units",15599
+"New London County","09011","2015-2019","Vacant","Number","Margins of Error",881
+"New London County","09011","2015-2019","Vacant","Percent","Housing Units",12.64
+"New London County","09011","2015-2019","Vacant","Percent","Margins of Error",0.71
+"New London County","09011","2015-2019","Occupied","Number","Housing Units",107827
+"New London County","09011","2015-2019","Occupied","Number","Margins of Error",910
+"New London County","09011","2015-2019","Occupied","Percent","Housing Units",87.36
+"New London County","09011","2015-2019","Occupied","Percent","Margins of Error",0.76
+"Tolland County","09013","2006-2010","Total","Number","Housing Units",57294
+"Tolland County","09013","2006-2010","Total","Number","Margins of Error",395
+"Tolland County","09013","2006-2010","Vacant","Number","Housing Units",2842
+"Tolland County","09013","2006-2010","Vacant","Number","Margins of Error",456
+"Tolland County","09013","2006-2010","Vacant","Percent","Housing Units",4.96
+"Tolland County","09013","2006-2010","Vacant","Percent","Margins of Error",0.8
+"Tolland County","09013","2006-2010","Occupied","Number","Housing Units",54452
+"Tolland County","09013","2006-2010","Occupied","Number","Margins of Error",638
+"Tolland County","09013","2006-2010","Occupied","Percent","Housing Units",95.04
+"Tolland County","09013","2006-2010","Occupied","Percent","Margins of Error",1.29
+"Tolland County","09013","2007-2011","Total","Number","Housing Units",57652
+"Tolland County","09013","2007-2011","Total","Number","Margins of Error",723
+"Tolland County","09013","2007-2011","Vacant","Number","Housing Units",3266
+"Tolland County","09013","2007-2011","Vacant","Number","Margins of Error",461
+"Tolland County","09013","2007-2011","Vacant","Percent","Housing Units",5.67
+"Tolland County","09013","2007-2011","Vacant","Percent","Margins of Error",0.8
+"Tolland County","09013","2007-2011","Occupied","Number","Housing Units",54386
+"Tolland County","09013","2007-2011","Occupied","Number","Margins of Error",805
+"Tolland County","09013","2007-2011","Occupied","Percent","Housing Units",94.33
+"Tolland County","09013","2007-2011","Occupied","Percent","Margins of Error",1.83
+"Tolland County","09013","2008-2012","Total","Number","Housing Units",57912
+"Tolland County","09013","2008-2012","Total","Number","Margins of Error",397
+"Tolland County","09013","2008-2012","Vacant","Number","Housing Units",3413
+"Tolland County","09013","2008-2012","Vacant","Number","Margins of Error",586
+"Tolland County","09013","2008-2012","Vacant","Percent","Housing Units",5.89
+"Tolland County","09013","2008-2012","Vacant","Percent","Margins of Error",1.01
+"Tolland County","09013","2008-2012","Occupied","Number","Housing Units",54499
+"Tolland County","09013","2008-2012","Occupied","Number","Margins of Error",687
+"Tolland County","09013","2008-2012","Occupied","Percent","Housing Units",94.11
+"Tolland County","09013","2008-2012","Occupied","Percent","Margins of Error",1.35
+"Tolland County","09013","2009-2013","Total","Number","Housing Units",58067
+"Tolland County","09013","2009-2013","Total","Number","Margins of Error",401
+"Tolland County","09013","2009-2013","Vacant","Number","Housing Units",3740
+"Tolland County","09013","2009-2013","Vacant","Number","Margins of Error",522
+"Tolland County","09013","2009-2013","Vacant","Percent","Housing Units",6.44
+"Tolland County","09013","2009-2013","Vacant","Percent","Margins of Error",0.9
+"Tolland County","09013","2009-2013","Occupied","Number","Housing Units",54327
+"Tolland County","09013","2009-2013","Occupied","Number","Margins of Error",572
+"Tolland County","09013","2009-2013","Occupied","Percent","Housing Units",93.56
+"Tolland County","09013","2009-2013","Occupied","Percent","Margins of Error",1.18
+"Tolland County","09013","2010-2014","Total","Number","Housing Units",58279
+"Tolland County","09013","2010-2014","Total","Number","Margins of Error",476
+"Tolland County","09013","2010-2014","Vacant","Number","Housing Units",3835
+"Tolland County","09013","2010-2014","Vacant","Number","Margins of Error",477
+"Tolland County","09013","2010-2014","Vacant","Percent","Housing Units",6.58
+"Tolland County","09013","2010-2014","Vacant","Percent","Margins of Error",0.82
+"Tolland County","09013","2010-2014","Occupied","Number","Housing Units",54444
+"Tolland County","09013","2010-2014","Occupied","Number","Margins of Error",672
+"Tolland County","09013","2010-2014","Occupied","Percent","Housing Units",93.42
+"Tolland County","09013","2010-2014","Occupied","Percent","Margins of Error",1.38
+"Tolland County","09013","2011-2015","Total","Number","Housing Units",58383
+"Tolland County","09013","2011-2015","Total","Number","Margins of Error",497
+"Tolland County","09013","2011-2015","Vacant","Number","Housing Units",3916
+"Tolland County","09013","2011-2015","Vacant","Number","Margins of Error",476
+"Tolland County","09013","2011-2015","Vacant","Percent","Housing Units",6.71
+"Tolland County","09013","2011-2015","Vacant","Percent","Margins of Error",0.82
+"Tolland County","09013","2011-2015","Occupied","Number","Housing Units",54467
+"Tolland County","09013","2011-2015","Occupied","Number","Margins of Error",652
+"Tolland County","09013","2011-2015","Occupied","Percent","Housing Units",93.29
+"Tolland County","09013","2011-2015","Occupied","Percent","Margins of Error",1.37
+"Tolland County","09013","2012-2016","Total","Number","Housing Units",58574
+"Tolland County","09013","2012-2016","Total","Number","Margins of Error",385
+"Tolland County","09013","2012-2016","Vacant","Number","Housing Units",4001
+"Tolland County","09013","2012-2016","Vacant","Number","Margins of Error",449
+"Tolland County","09013","2012-2016","Vacant","Percent","Housing Units",6.83
+"Tolland County","09013","2012-2016","Vacant","Percent","Margins of Error",0.77
+"Tolland County","09013","2012-2016","Occupied","Number","Housing Units",54573
+"Tolland County","09013","2012-2016","Occupied","Number","Margins of Error",587
+"Tolland County","09013","2012-2016","Occupied","Percent","Housing Units",93.17
+"Tolland County","09013","2012-2016","Occupied","Percent","Margins of Error",1.17
+"Tolland County","09013","2013-2017","Total","Number","Housing Units",59099
+"Tolland County","09013","2013-2017","Total","Number","Margins of Error",385
+"Tolland County","09013","2013-2017","Vacant","Number","Housing Units",4221
+"Tolland County","09013","2013-2017","Vacant","Number","Margins of Error",571
+"Tolland County","09013","2013-2017","Vacant","Percent","Housing Units",7.14
+"Tolland County","09013","2013-2017","Vacant","Percent","Margins of Error",0.97
+"Tolland County","09013","2013-2017","Occupied","Number","Housing Units",54878
+"Tolland County","09013","2013-2017","Occupied","Number","Margins of Error",703
+"Tolland County","09013","2013-2017","Occupied","Percent","Housing Units",92.86
+"Tolland County","09013","2013-2017","Occupied","Percent","Margins of Error",1.33
+"Tolland County","09013","2014-2018","Total","Number","Housing Units",59418
+"Tolland County","09013","2014-2018","Total","Number","Margins of Error",351
+"Tolland County","09013","2014-2018","Vacant","Number","Housing Units",4186
+"Tolland County","09013","2014-2018","Vacant","Number","Margins of Error",568
+"Tolland County","09013","2014-2018","Vacant","Percent","Housing Units",7.05
+"Tolland County","09013","2014-2018","Vacant","Percent","Margins of Error",0.96
+"Tolland County","09013","2014-2018","Occupied","Number","Housing Units",55232
+"Tolland County","09013","2014-2018","Occupied","Number","Margins of Error",657
+"Tolland County","09013","2014-2018","Occupied","Percent","Housing Units",92.95
+"Tolland County","09013","2014-2018","Occupied","Percent","Margins of Error",1.23
+"Tolland County","09013","2015-2019","Total","Number","Housing Units",59686
+"Tolland County","09013","2015-2019","Total","Number","Margins of Error",261
+"Tolland County","09013","2015-2019","Vacant","Number","Housing Units",4003
+"Tolland County","09013","2015-2019","Vacant","Number","Margins of Error",513
+"Tolland County","09013","2015-2019","Vacant","Percent","Housing Units",6.71
+"Tolland County","09013","2015-2019","Vacant","Percent","Margins of Error",0.86
+"Tolland County","09013","2015-2019","Occupied","Number","Housing Units",55683
+"Tolland County","09013","2015-2019","Occupied","Number","Margins of Error",583
+"Tolland County","09013","2015-2019","Occupied","Percent","Housing Units",93.29
+"Tolland County","09013","2015-2019","Occupied","Percent","Margins of Error",1.06
+"Windham County","09015","2006-2010","Total","Number","Housing Units",48518
+"Windham County","09015","2006-2010","Total","Number","Margins of Error",221
+"Windham County","09015","2006-2010","Vacant","Number","Housing Units",4197
+"Windham County","09015","2006-2010","Vacant","Number","Margins of Error",510
+"Windham County","09015","2006-2010","Vacant","Percent","Housing Units",8.65
+"Windham County","09015","2006-2010","Vacant","Percent","Margins of Error",1.05
+"Windham County","09015","2006-2010","Occupied","Number","Housing Units",44321
+"Windham County","09015","2006-2010","Occupied","Number","Margins of Error",566
+"Windham County","09015","2006-2010","Occupied","Percent","Housing Units",91.35
+"Windham County","09015","2006-2010","Occupied","Percent","Margins of Error",1.24
+"Windham County","09015","2007-2011","Total","Number","Housing Units",48863
+"Windham County","09015","2007-2011","Total","Number","Margins of Error",223
+"Windham County","09015","2007-2011","Vacant","Number","Housing Units",4497
+"Windham County","09015","2007-2011","Vacant","Number","Margins of Error",556
+"Windham County","09015","2007-2011","Vacant","Percent","Housing Units",9.2
+"Windham County","09015","2007-2011","Vacant","Percent","Margins of Error",1.14
+"Windham County","09015","2007-2011","Occupied","Number","Housing Units",44366
+"Windham County","09015","2007-2011","Occupied","Number","Margins of Error",629
+"Windham County","09015","2007-2011","Occupied","Percent","Housing Units",90.8
+"Windham County","09015","2007-2011","Occupied","Percent","Margins of Error",1.35
+"Windham County","09015","2008-2012","Total","Number","Housing Units",48996
+"Windham County","09015","2008-2012","Total","Number","Margins of Error",222
+"Windham County","09015","2008-2012","Vacant","Number","Housing Units",5087
+"Windham County","09015","2008-2012","Vacant","Number","Margins of Error",567
+"Windham County","09015","2008-2012","Vacant","Percent","Housing Units",10.38
+"Windham County","09015","2008-2012","Vacant","Percent","Margins of Error",1.16
+"Windham County","09015","2008-2012","Occupied","Number","Housing Units",43909
+"Windham County","09015","2008-2012","Occupied","Number","Margins of Error",610
+"Windham County","09015","2008-2012","Occupied","Percent","Housing Units",89.62
+"Windham County","09015","2008-2012","Occupied","Percent","Margins of Error",1.31
+"Windham County","09015","2009-2013","Total","Number","Housing Units",49051
+"Windham County","09015","2009-2013","Total","Number","Margins of Error",228
+"Windham County","09015","2009-2013","Vacant","Number","Housing Units",5033
+"Windham County","09015","2009-2013","Vacant","Number","Margins of Error",505
+"Windham County","09015","2009-2013","Vacant","Percent","Housing Units",10.26
+"Windham County","09015","2009-2013","Vacant","Percent","Margins of Error",1.03
+"Windham County","09015","2009-2013","Occupied","Number","Housing Units",44018
+"Windham County","09015","2009-2013","Occupied","Number","Margins of Error",571
+"Windham County","09015","2009-2013","Occupied","Percent","Housing Units",89.74
+"Windham County","09015","2009-2013","Occupied","Percent","Margins of Error",1.24
+"Windham County","09015","2010-2014","Total","Number","Housing Units",49162
+"Windham County","09015","2010-2014","Total","Number","Margins of Error",245
+"Windham County","09015","2010-2014","Vacant","Number","Housing Units",4675
+"Windham County","09015","2010-2014","Vacant","Number","Margins of Error",567
+"Windham County","09015","2010-2014","Vacant","Percent","Housing Units",9.51
+"Windham County","09015","2010-2014","Vacant","Percent","Margins of Error",1.15
+"Windham County","09015","2010-2014","Occupied","Number","Housing Units",44487
+"Windham County","09015","2010-2014","Occupied","Number","Margins of Error",615
+"Windham County","09015","2010-2014","Occupied","Percent","Housing Units",90.49
+"Windham County","09015","2010-2014","Occupied","Percent","Margins of Error",1.33
+"Windham County","09015","2011-2015","Total","Number","Housing Units",49176
+"Windham County","09015","2011-2015","Total","Number","Margins of Error",246
+"Windham County","09015","2011-2015","Vacant","Number","Housing Units",4900
+"Windham County","09015","2011-2015","Vacant","Number","Margins of Error",519
+"Windham County","09015","2011-2015","Vacant","Percent","Housing Units",9.96
+"Windham County","09015","2011-2015","Vacant","Percent","Margins of Error",1.06
+"Windham County","09015","2011-2015","Occupied","Number","Housing Units",44276
+"Windham County","09015","2011-2015","Occupied","Number","Margins of Error",631
+"Windham County","09015","2011-2015","Occupied","Percent","Housing Units",90.04
+"Windham County","09015","2011-2015","Occupied","Percent","Margins of Error",1.36
+"Windham County","09015","2012-2016","Total","Number","Housing Units",49165
+"Windham County","09015","2012-2016","Total","Number","Margins of Error",178
+"Windham County","09015","2012-2016","Vacant","Number","Housing Units",4904
+"Windham County","09015","2012-2016","Vacant","Number","Margins of Error",432
+"Windham County","09015","2012-2016","Vacant","Percent","Housing Units",9.97
+"Windham County","09015","2012-2016","Vacant","Percent","Margins of Error",0.88
+"Windham County","09015","2012-2016","Occupied","Number","Housing Units",44261
+"Windham County","09015","2012-2016","Occupied","Number","Margins of Error",466
+"Windham County","09015","2012-2016","Occupied","Percent","Housing Units",90.03
+"Windham County","09015","2012-2016","Occupied","Percent","Margins of Error",1
+"Windham County","09015","2013-2017","Total","Number","Housing Units",49577
+"Windham County","09015","2013-2017","Total","Number","Margins of Error",197
+"Windham County","09015","2013-2017","Vacant","Number","Housing Units",5048
+"Windham County","09015","2013-2017","Vacant","Number","Margins of Error",527
+"Windham County","09015","2013-2017","Vacant","Percent","Housing Units",10.18
+"Windham County","09015","2013-2017","Vacant","Percent","Margins of Error",1.06
+"Windham County","09015","2013-2017","Occupied","Number","Housing Units",44529
+"Windham County","09015","2013-2017","Occupied","Number","Margins of Error",562
+"Windham County","09015","2013-2017","Occupied","Percent","Housing Units",89.82
+"Windham County","09015","2013-2017","Occupied","Percent","Margins of Error",1.19
+"Windham County","09015","2014-2018","Total","Number","Housing Units",49644
+"Windham County","09015","2014-2018","Total","Number","Margins of Error",205
+"Windham County","09015","2014-2018","Vacant","Number","Housing Units",5195
+"Windham County","09015","2014-2018","Vacant","Number","Margins of Error",551
+"Windham County","09015","2014-2018","Vacant","Percent","Housing Units",10.46
+"Windham County","09015","2014-2018","Vacant","Percent","Margins of Error",1.11
+"Windham County","09015","2014-2018","Occupied","Number","Housing Units",44449
+"Windham County","09015","2014-2018","Occupied","Number","Margins of Error",585
+"Windham County","09015","2014-2018","Occupied","Percent","Housing Units",89.54
+"Windham County","09015","2014-2018","Occupied","Percent","Margins of Error",1.24
+"Windham County","09015","2015-2019","Total","Number","Housing Units",49718
+"Windham County","09015","2015-2019","Total","Number","Margins of Error",243
+"Windham County","09015","2015-2019","Vacant","Number","Housing Units",4765
+"Windham County","09015","2015-2019","Vacant","Number","Margins of Error",480
+"Windham County","09015","2015-2019","Vacant","Percent","Housing Units",9.58
+"Windham County","09015","2015-2019","Vacant","Percent","Margins of Error",0.97
+"Windham County","09015","2015-2019","Occupied","Number","Housing Units",44953
+"Windham County","09015","2015-2019","Occupied","Number","Margins of Error",550
+"Windham County","09015","2015-2019","Occupied","Percent","Housing Units",90.42
+"Windham County","09015","2015-2019","Occupied","Percent","Margins of Error",1.19
